@@ -2,9 +2,29 @@
   command = "node build.js"
   publish = "dist"
 
+[[redirects]]
+  from = "http://vikashksingh.com/*"
+  to = "https://vikashksingh.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.vikashksingh.com/*"
+  to = "https://vikashksingh.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vikashksingh.com/*"
+  to = "https://vikashksingh.com/:splat"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
+    Content-Security-Policy = "upgrade-insecure-requests; block-all-mixed-content"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
     X-Frame-Options = "SAMEORIGIN"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
