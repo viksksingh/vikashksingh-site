@@ -2,25 +2,26 @@
 title: The Point-Source Myth
 date: 2026-07-14
 excerpt: We built our organisations to catch lightning. Innovation was never lightning.
-tags: innovation, systems thinking, essays
+tags: innovation, systems thinking, thought leadership
 draft: false
+cover: https://vikashksingh.com/assets/insights/the-point-source-myth-cover.png
 ---
 
 On the same February day in 1876, two men filed paperwork for the telephone at the same patent office, hours apart. One was Alexander Graham Bell. The other was Elisha Gray, and unless you have a particular interest in patent law, you have probably never heard of him.
 
-When we tell that story at all, we tell it as a cautionary tale about paperwork. Move fast. File first. I think that's the wrong lesson, and I suspect we chose the wrong lesson deliberately, because the right one is uncomfortable: the telephone was going to happen that year whether Bell existed or not. The components were lying around. The telegraph had normalised the idea of signals down a wire. Acoustics had matured. The electromagnet was decades old. The pieces were on the table, and two people, independently, reached for the same connection in the same week.
+Now whenever we tell that story at all, we more than often tell it as a cautionary tale about paperwork. Move fast. File first. I think that's the wrong lesson, and I suspect we chose the wrong lesson deliberately, because the right one might be a tad uncomfortable: the telephone was going to happen that year whether Bell existed or not. The components were lying around. The telegraph had normalised the idea of signals down a wire. Acoustics had matured. The electromagnet was decades old. The pieces were on the table, and two people, independently, reached for the same connection in the same week.
 
-Historians of science have a name for this: multiple discovery. Calculus arrived twice, through Newton and Leibniz, who spent years accusing each other of theft. Oxygen was isolated separately by Scheele and Priestley. Darwin sat on natural selection for the better part of two decades until Alfred Russel Wallace, working with fever in the Malay Archipelago, mailed him what was essentially his own theory. Once you notice the pattern, you cannot stop noticing it. Very little that mattered was invented once.
+Historians of science have a name for this: multiple discovery. Calculus arrived twice, through Newton and Leibniz, who spent years accusing each other of theft. Oxygen was isolated separately by Scheele and Priestley. Darwin sat on natural selection for the better part of two decades until Alfred Russel Wallace, working with fever in the Malay Archipelago, mailed him what was essentially his own theory. Once you notice the pattern, you just cannot stop noticing it - very little that mattered was invented once.
 
 And yet almost everything about how we organise for innovation assumes the opposite.
 
 ## The myth we organised around
 
-Call it the point-source myth: the belief that innovation originates at a point — a genius, a lab, a garage — and radiates outward like light from a lamp. It is a flattering story. It gives us someone to celebrate and somewhere to look.
+Call it the point-source myth: the belief that innovation originates at a point - as a spark, a flash point idea; from a genius, a lab, a garage — and then radiates outward like light from a lamp. It is a flattering story. It gives us someone to celebrate and somewhere to look.
 
-It is also the physics on which we have built everything else. Budgets fund sparks. Patents fence points. Awards decorate individuals. We construct designated rooms — labs, hubs, incubators — where lightning is scheduled between nine and five. I have sat in steering committees that talked, without irony, about "where ideas come from," as though ideas had a postcode.
+It is also the physics on which we have built everything else. Budgets fund sparks. Patents fence points. Awards decorate individuals. We construct designated rooms - labs, hubs, incubators — where lightning is scheduled between nine and five. I have sat in steering committees that talked, without irony, about "where ideas come from," as though ideas had a postcode.
 
-I believed all of this for years, and I want to be honest about that rather than write as a convert sneering at his old religion. It took a long time in and around large transformation programs to admit something simple: I had never actually seen it happen. Not once. Every breakthrough I have been close to, when I traced it honestly, dissolved into a network. A half-idea from one team. A constraint from a regulator that forced a rethink. A tool built for an entirely different purpose. A person who happened to have stood in two worlds and noticed they rhymed. The spark story got written afterwards, for the awards night.
+I believed all of this for years, and I want to be honest about that rather than write as a convert sneering at his old religion. It took a long time in and around large transformation programs to admit something simple: I had never actually seen it happen. Not once. Every breakthrough I have closely researched about, when I traced it honestly, dissolved into a network. A half-idea from one team. A constraint from a regulator that forced a rethink. A tool built for an entirely different purpose. A founder, I know too well, who happened to have stood in two worlds and noticed they rhymed. The spark story got written afterwards, for the awards night.
 
 If your model of innovation cannot survive contact with how any actual innovation happened, the model is the problem.
 
@@ -50,26 +51,31 @@ That is what a line looks like up close. And it suggests a redescription of a fa
 
 Systems thinking gets you halfway. The second enabler follows from a hard limit: no single vantage point sees enough stars.
 
-You can only draw lines between lights you can see, and a career shows you a narrow patch of sky. One sector's assumptions, one discipline's methods, one company's folklore. This is why the lines are so often drawn by boundary-crossers — the engineer who moved into health, the logistics person who wandered into energy, the researcher who spent a year embedded with operators. They are not smarter. They can simply see two patches at once.
+You can only draw lines between lights you can see, and a career shows you a narrow patch of sky. One sector's assumptions, one discipline's methods, one company's folklore. This is why the lines are so often drawn by boundary-crossers - the engineer who moved into health sector, the logistics person who wandered into solving for energy transition, the data scientist who spent months embedded with operators. They are not smarter. They can simply see two patches at once.
 
-The corrective is not to hire mythical polymaths. It is community. I mean the real kind, and the distinction matters. Most professional gatherings are transactional: cards, pitches, pleasant agreement, nothing changed. A working community is different in one specific way — it argues. Margaret Heffernan has spent years demonstrating that good thinking requires conflict, that the most valuable colleague is the one prepared to tell you what you have got wrong. Two people looking at the same stars will see different pictures, and the honest argument between them is the drawing instrument itself. Consensus produces the constellation everyone already knew. Friction produces the new one.
+The corrective is not to hire mythical polymaths. It is community. I mean the real kind, and the distinction matters. Most professional gatherings are transactional: cards, pitches, pleasant agreement, nothing changed. A working community is different in one specific way - it argues. Margaret Heffernan has spent years demonstrating that good thinking requires conflict, that the most valuable colleague is the one prepared to tell you what you have got wrong. Two people looking at the same stars will see different pictures, and the honest argument between them is the drawing instrument itself. Consensus produces the constellation everyone already knew. Friction produces the new one.
 
-Ideas do not network. People who disagree do.
+Ideas do not network. People who disagree do. This has become a core philosophy for the way I see things in the ecosystem of Innovation.
 
-Put those two enablers together — the trained eye for relationships, and a community of vantage points willing to contest each other's patterns — and you have something no lab or lone genius can replicate: a standing capability for seeing what no individual member can see. Each person contributes a patch of sky. The argument draws the lines.
+Put those two enablers together - the trained eye for relationships, and a community of vantage points willing to contest each other's patterns, and you have something no lab or lone genius can replicate: a standing capability for seeing what no individual member can see. Each person contributes a patch of sky. The argument draws the lines.
 
 ## What this changes
 
 If any of this is right, the leader's job changes quietly and quite radically. Less prospecting for sparks. More tending shared sky.
 
-The questions change too. Not "how do we generate more ideas?" but: who can see our stars, and whose stars can we see? Where does our structure make line-drawing impossible — which two dashboards has nobody been paid to look between? When did we last put people who fundamentally disagree in a room with a real problem and enough trust to have it out?
+The questions change too. Not "how do we generate more ideas?" but: who can see our stars, and whose stars can we see? Where does our structure make line-drawing impossible - which two dashboards has nobody been paid to look between? When did we last put people who fundamentally disagree in a room with a real problem and enough trust to have it out?
 
 I am deliberately not offering a framework. I am suspicious of frameworks arriving too early; they are how genuinely new ways of seeing get flattened into workshops. This is a way of seeing first, and it takes a while to settle in. It did for me.
 
-But sit with the implication for a moment, because it is the part I keep returning to. The next breakthrough in your industry very likely already exists — scattered, unconnected, distributed across a dozen people who have never met and may never meet. The stars are lit. What is missing is the line, and someone with the vantage and the nerve to draw it.
+But sit with the implication for a moment, because it is the part I keep returning to. The next breakthrough in your industry very likely already exists - scattered, unconnected, distributed across a dozen people who have never met and may never meet. The stars are lit. What is missing is the line, and someone with the vantage and the nerve to draw it.
 
 Which leaves a question I genuinely do not have a complete answer to, and I mean it as an open one rather than a rhetorical flourish:
 
-If the breakthrough is already out there, distributed — what, exactly, is your organisation for?
+If the breakthrough is already out there, distributed - what, exactly, is your organisation for?
 
 I would like to hear how that lands. Especially from those who think I have drawn the wrong constellation entirely.
+
+
+
+Consider this the opening chapter. I'll be exploring this idea from multiple angles in the weeks ahead. Watch this space.
+
