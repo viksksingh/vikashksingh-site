@@ -242,7 +242,7 @@ function articlePage(p){
 <script type="application/ld+json">${jsonld}</script>
 ${c.head}</head><body>
 ${c.header}
-${p.cover?`<div class="cover"><img src="${esc(p.cover)}" alt="${esc(p.title)}" width="1200" height="630"></div>`:""}
+${p.cover?`<div class="cover"><img src="${esc(p.cover)}" alt="${esc(p.title)}"></div>`:""}
 <article class="essay">
   <div class="kicker-row"><span class="kicker">Insights</span><span class="kicker" style="color:var(--faint)">${fmtDate(p.date)} · ${p.minutes} min read</span></div>
   <h1>${esc(p.title)}</h1>
