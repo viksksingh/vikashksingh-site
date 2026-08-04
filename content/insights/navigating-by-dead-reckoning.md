@@ -6,11 +6,15 @@ tags: strategy, signals, systems thinking, essays
 draft: false
 ---
 
-On a foggy October night in 1707, four ships of the Royal Navy ran onto the rocks off the Isles of Scilly. They were commanded by Sir Cloudesley Shovell, one of the most experienced admirals of his age, returning home with a fleet that had crossed half the Atlantic without incident. Somewhere between fifteen hundred and two thousand men drowned within sight of England.
+I've sat through more strategy reviews than I can remember. Most were well prepared. Most were intellectually rigorous. And almost all of them shared the same blind spot: we spent far more time measuring progress against the plan than questioning whether the assumptions behind the plan were still true.
 
-The fleet did not sink because anyone was careless. The reason was something else - to do with how ships navigated. With no way to measure longitude at sea, sailors used a method called dead reckoning: take your last known position, apply your speed, your heading and the time elapsed, and mark where you must now be. It is a perfectly rational system with one property that kills. Every small error folds into the next estimate. The mistake compounds silently, mile after mile, and the chart goes on showing a confident position that has quietly parted company with the ship.
+It took me years to realise this wasn't simply a management habit. It was a navigation problem.
 
-Shovell's navigators believed they were safely west of danger. They were wrong by enough to matter, and nothing inside the fleet could tell them so. That story felt like a good analogy for me because it explained something I'd seen repeatedly in boardrooms and transformation programmes without quite having the language for it.
+Long before ships could determine longitude, sailors relied on a method called dead reckoning. Starting from their last known position, they estimated where they should now be based on speed, heading and time elapsed. It was logical, disciplined and, for long stretches, remarkably effective. Its weakness was subtle: every small error compounded into the next estimate. The longer a ship sailed without an external reference point, the more confidently it could be navigating from the wrong position.
+
+That weakness became tragically clear in 1707, when four ships of the Royal Navy, commanded by Sir Cloudesley Shovell, struck the rocks off the Isles of Scilly after returning from the Atlantic. Somewhere between fifteen hundred and two thousand men drowned within sight of England. The fleet wasn't undone by poor seamanship or a lack of discipline. Quite the opposite. It was led by one of Britain's most experienced admirals. The problem was that the navigators believed they were safely west of danger, and nothing available to them could tell them otherwise.
+
+That story stayed with me because it captures a pattern I've seen repeatedly in organisations. The tools have changed. The dynamics haven't. 
 
 Seven years later, Parliament created the Longitude Prize. I wrote in an earlier piece about the outsider who eventually won it. What I did not say is what the prize was really for. It was not for a better plan. Every ship already had an excellent plan. The prize was for a way to take a fix: a live correction against a reference point outside the ship.
 
