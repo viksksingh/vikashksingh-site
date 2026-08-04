@@ -6,7 +6,7 @@ tags: strategy, signals, systems thinking, essays
 draft: false
 ---
 
-Over the years, I've sat through more strategy reviews than I can remember. Most were thoughtful, well prepared and intellectually rigorous. Looking back, I think many of them—including those I was part of—shared the same habit: we spent far more time measuring progress against the plan than asking whether the assumptions behind the plan were still true.
+Over the years, I've sat through more strategy reviews than I can remember. Most were thoughtful, well prepared and intellectually rigorous. Looking back, I think many of them, including those I was part of, shared the same habit: we spent far more time measuring progress against the plan than asking whether the assumptions behind the plan were still true.
 
 It took me years to realise this wasn't simply a management habit. It was a navigation problem.
 
