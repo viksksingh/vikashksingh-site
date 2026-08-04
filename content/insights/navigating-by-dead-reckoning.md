@@ -14,13 +14,15 @@ Shovell's navigators believed they were safely west of danger. They were wrong b
 
 Seven years later, Parliament created the Longitude Prize. I wrote in an earlier piece about the outsider who eventually won it. What I did not say is what the prize was really for. It was not for a better plan. Every ship already had an excellent plan. The prize was for a way to take a fix: a live correction against a reference point outside the ship.
 
-Over the years I've realised that most organisations navigate much the same way. The thought didn't come from maritime history; it came from sitting through strategy reviews where every answer came from the previous version of the plan. I've spent much of my career trying to build the equivalent of better navigational instruments, which is probably why this analogy refuses to leave me.
+Over the years I've realised that most organisations navigate much the same way. The thought didn't come from maritime history; rather through strategy reviews where every answer came from the previous version of the plan. I've spent much of my career trying to build the equivalent of better navigational instruments, which is probably why this analogy refuses to leave me.
 
 ## The most familiar ritual in corporate life
 
 Consider the quarterly forecast we all go through. A number is produced, which descends from the plan, adjusted by run rate, seasoned with judgement, formatted beautifully. Everyone in the room treats it with respect. And almost everyone in the room privately knows what it is: last known position, plus assumed speed, plus assumed heading. Dead reckoning in a spreadsheet.
 
-The same is true of the 3-year strategy, the transformation roadmap, the annual plan. Well, I do not say this with contempt. In fact, these artefacts are necessary, and I have written more of them than I care to count. They are how large groups of people steer together, and steering together is genuinely hard. The problem is less about us planning and more about the what we consult to check the plan. In most organisations, the answer is the plan. Progress is measured as variance against our own projection. We compare the ship's log to, well practically, the ship's log!
+I remember one steering committee where every chart showed green, every milestone had an explanation, and every discussion revolved around whether we were ahead or behind the plan. It struck me afterwards that nobody had asked a simpler question: are the assumptions behind this plan still true? We were measuring ourselves against our own projection.
+
+The same is true of the 3-year strategy, the transformation roadmap, the annual plan. Well, I do not say this with contempt. In fact, these artefacts are necessary, and I have written more of them than I care to count. They are how large groups of people steer together, and steering together is genuinely hard. The problem isn't planning. It's what we choose to consult when checking whether the plan still reflects reality. In most organisations, the answer is the plan. Progress is measured as variance against our own projection. In effect, we compare the ship's log with...the ship's log.
 
 You already own the counterexample, and it lives in your pocket. A printed road map is a plan: accurate on the day it was made, but soon becomes blind ever after. Your sat nav is something else entirely. It does not trust its own projection for more than a second. It takes a continuous fix against satellites, reference points that are outside the car, indifferent to where the driver believes the car to be. When you miss a turn, the map does not defend the route. It recalculates from where you actually are.
 
@@ -28,19 +30,19 @@ Nobody would navigate a city with confident projections from their last known po
 
 ## Information, signal, and the thing worth steering by
 
-The usual objection arrives here: we are drowning in external information. Be it countless dashboards, feeds, research subscriptions, market scans. Surely no modern organisation lacks reference points in this era of information overload.
+Whenever I raise this idea, someone points to the dashboards, research subscriptions or market intelligence reports. It's a fair challenge. Modern organisations aren't short of information. They're drowning in it.
 
 This is where a distinction matters, and the innovation conversation keeps collapsing it.
 
-Information has become abundant and so accessible that it has gotten to the point of worthlessness, more often than not. 
+Information has become so abundant that scarcity is no longer its defining characteristic. Attention is. Most information never changes a decision.
 
 A signal is rarer: a piece of the outside world that actually bears on your position. It could be in a competitor's quiet hiring pattern, or a regulation drafted in another jurisdiction. Perhaps it is in a technology crossing a cost threshold. Signals exist in the information flood, but they often arrive weak, ambiguous and inconveniently timed, and they drown easily in the noise of everything else.
 
 Then there is a third category, and it is the rarest asset in any economy. A validated signal is one that has survived honest interrogation by people with different vantage points and no incentive to be polite about it. Not an analyst note or a headline. But critically speaking, a claim that has been in a room with sceptics from outside its own world and still come out standing. That's a signal - vetted and genuine enough to pursue.
 
-Now this difference is not academic. I once sat with a leadership team that had planned around a comfortable assumption: a particular capability was five years away from being practical in their industry. It was in the strategy, priced into the roadmap, repeated in almost every deck. Then a session put them at a table with operators from an adjacent sector, and one of them said, without drama, that his business had deployed that capability the previous year. He described the vendor, the cost and the six months of pain. You could feel the room take a fix. The chart said one position but the apparent North Star said another. The plan organically changed within a month, and it changed because a signal had been validated in front of them, by a person with no stake in their comfort.
+Now this difference is not academic. I once sat with a leadership team that had planned around a comfortable assumption: a particular capability was five years away from being practical in their industry. It was in the strategy, priced into the roadmap, repeated in almost every deck. Then a session put them at a table with operators from an adjacent sector, and one of them said, without drama, that his business had deployed that capability the previous year. He described the vendor, the cost and the six months of pain. You could feel the room take a fix. The chart said one position but the apparent North Star said another. The room was sceptical at first. Questions followed. Which vendor? At what scale? What didn't work? Within half an hour the conversation had shifted from whether the capability was viable to why we'd assumed it wasn't. Nobody had discovered a new technology that afternoon. We'd simply discovered our map was out of date.
 
-That is celestial navigation for enterprises. Plans are dead reckoning. Validated signals are the stars!
+That is celestial navigation for enterprises. Plans help you steer. Validated signals tell you whether you're still where you think you are.
 
 ## What this is not
 
@@ -54,11 +56,13 @@ And no, signals are not hindsight dressed up as foresight. The signals are almos
 
 Once you have this lens, you start sorting organisations by it.
 
+They're rarely poorly run organisations. In fact, many are exceptionally disciplined. That's precisely why the drift is hard to notice. Discipline can reinforce yesterday's assumptions just as effectively as it executes today's priorities.
+
 Dead reckoning organisations are recognisable at a distance. Their calendars are full of reviews that compare the plan to the plan. Their external input arrives pre digested, through reports commissioned to reassure. Their forecasts are precise to the decimal and wrong by the mile. They are frequently excellent, disciplined and confident, exactly as Shovell's fleet was, and their position error is compounding in silence because nothing they consult exists outside their own hull.
 
 Organisations that take fixes look different in small ways. Someone in them is paid to notice weak signals rather than to summarise strong ones. Outsiders with no reason for politeness get regular access to the actual assumptions, not the investor version. When an external reference point (and hence an emphasis on genuine partners) contradicts the chart, the instinct is to replot the position rather than to defend the projection. Their plans are humbler documents, revised more often, trusted more appropriately.
 
-The gap between the two has always existed. What has changed is the cost of it. In slow seas, a dead reckoning organisation could drift for a decade and correct at leisure. The seas are not slow now. Assumptions age faster than planning cycles, which means the distance between fixes is no longer a matter of style. It is the distance to the rocks.
+The gap between the two has always existed. What has changed is the cost of it. In slow seas, a dead reckoning organisation could drift for a decade and correct at leisure. The seas are not slow now. In my experience, the issue isn't that organisations review strategy too infrequently. It's that they rarely expose the underlying assumptions to people outside the organisation who have permission to challenge them.
 
 The instruments for taking fixes exist, just as the marine chronometer eventually did. Most of them are not technologies. They are arrangements of people: deliberately mixed rooms, protected candour, outsiders granted access to real assumptions. Building those arrangements is unglamorous work, which is perhaps why so few organisations have anyone whose job it is.
 
@@ -66,5 +70,4 @@ So here is the question I would put to any leadership team, and I ask it of myse
 
 When did your organisation last take a genuine fix? Not a forecast review. Not a variance report. A moment when a reference point from outside your hull corrected your position, and the chart was redrawn because of it.
 
-If you can name the moment, you know what it was worth. If you cannot remember one, that may itself be the most accurate reading of your position you will get this year.
-
+If you can name the moment, you'll probably remember what changed afterwards. If you can't, it may be worth asking whether your organisation has been navigating by projection for longer than anyone realises.
