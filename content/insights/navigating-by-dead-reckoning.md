@@ -1,6 +1,6 @@
 ---
 title: Navigating by Dead Reckoning
-date: 2026-09-08
+date: 2026-08-04
 excerpt: Most organisations steer the way sailors did before longitude. The error compounds quietly, and the reef arrives on schedule.
 tags: strategy, signals, systems thinking, essays
 draft: false
